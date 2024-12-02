@@ -57,8 +57,11 @@ Visualization
 # Crime Hotspots:
 
 A scatter plot was created to visualize crime hotspots based on coordinates and categories.
-Confusion Matrix:
 
+# Grid Maps:
+Provide visualizations of the forecasted crime hotspots.
+Clearly indicate predicted high-risk areas- In a MAPS
+Created grid maps and identified Strongly related features to burglary in the first week of 2013 in X and Y co-ordinates.
 
 # Predicted Crime Hotspots:
 
